@@ -1,0 +1,53 @@
+{
+    "practicum.html": [
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:28",
+            "keyStrokeInfo": "<h6 style=\"border: 30px; margin-left: 50px; font-size: large;\"> Sprint Week-5</h6>",
+            "position": "51,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:28",
+            "keyStrokeInfo": "",
+            "position": "51,77"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:28",
+            "keyStrokeInfo": "6",
+            "position": "51,77"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:28",
+            "keyStrokeInfo": "",
+            "position": "51,81"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:28",
+            "keyStrokeInfo": "7",
+            "position": "51,81"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:30",
+            "keyStrokeInfo": "",
+            "position": "51,3"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Jun 24 2021 18:46:30",
+            "keyStrokeInfo": "7",
+            "position": "51,3"
+        }
+    ]
+}
